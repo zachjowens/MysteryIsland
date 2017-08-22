@@ -13,7 +13,6 @@ import javafx.scene.Group;
 import javafx.scene.image.Image;
 import javafx.scene.image.ImageView;
 import javafx.scene.input.KeyEvent;
-import javafx.scene.layout.Pane;
 import javafx.scene.layout.StackPane;
 import javafx.scene.layout.VBox;
 import javafx.scene.paint.Color;
@@ -26,7 +25,6 @@ import javafx.scene.text.Text;
 import javafx.scene.text.Font;
 import javafx.stage.Stage;
 
-@SuppressWarnings("restriction")
 public class GameApplication extends Application {	
 	
 	private Group root, trunk;

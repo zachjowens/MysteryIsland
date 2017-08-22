@@ -6,7 +6,6 @@ import javafx.geometry.Rectangle2D;
 import javafx.scene.image.Image;
 import javafx.scene.canvas.GraphicsContext;
 
-@SuppressWarnings("restriction")
 public class Sprite {
 	
     private Image image;
